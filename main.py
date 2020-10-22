@@ -1,6 +1,6 @@
 # ----------------------
 # Jose luis code
-
+print('José Luis')
 
 
 # jose luis ends --------
@@ -8,6 +8,8 @@
 # ----------------------
 # hector code
 
+for i in range(30,40):
+    print(i)
 
 
 # hector ends --------
